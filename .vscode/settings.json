@@ -1,0 +1,7 @@
+{
+  "emmet.includeLanguages": {
+    "\"javascript\":  ": "\"jsx\""
+  },
+  "html-css-class-completion.enableEmmetSupport": true,
+  "tailwindCSS.emmetCompletions": true
+}
