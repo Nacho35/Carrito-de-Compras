@@ -3,5 +3,8 @@
     "\"javascript\":  ": "\"jsx\""
   },
   "html-css-class-completion.enableEmmetSupport": true,
-  "tailwindCSS.emmetCompletions": true
+  "tailwindCSS.emmetCompletions": true,
+  "cSpell.language": "en,es",
+  "cSpell.words": ["dispach"],
+  "cSpell.ignoreWords": ["tailwindcss"]
 }

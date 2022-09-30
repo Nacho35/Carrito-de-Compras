@@ -2,11 +2,11 @@ import { TYPES } from "../acciones/shoppingActions";
 
 export const shoppingInitialState = {
   products: [
-    { id: 1, name: "Lata de frijoles", price: 50 },
-    { id: 2, name: "Arroz Amarillo", price: 100 },
-    { id: 3, name: "Fideos Spaguetti", price: 120 },
-    { id: 4, name: "Yerba Mate", price: 300 },
-    { id: 5, name: "Biscochitos Salados", price: 150 },
+    { id: 1, name: "Producto A", price: 50 },
+    { id: 2, name: "Producto B", price: 100 },
+    { id: 3, name: "Producto C", price: 120 },
+    { id: 4, name: "Producto D", price: 300 },
+    { id: 5, name: "Producto F", price: 150 },
   ],
   cart: [],
 };
