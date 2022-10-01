@@ -1,13 +1,15 @@
 import Home from "./componentes/Home";
 import Navbar from "./componentes/Navbar";
-import ShoppingCart from "./componentes/ShoppingCart";
+import CardContainer from "./componentes/CardContainer";
+// import ShoppingCart from "./componentes/ShoppingCart";
 
 function App() {
   return (
     <>
       <Navbar />
       <Home />
-      <ShoppingCart />
+      <CardContainer />
+      {/* <ShoppingCart /> */}
     </>
   );
 }
