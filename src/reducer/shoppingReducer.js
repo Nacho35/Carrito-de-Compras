@@ -2,16 +2,16 @@ import { TYPES } from "../acciones/shoppingActions";
 
 export const shoppingInitialState = {
   products: [
-    { id: 1, name: "Producto A", price: 50 },
-    { id: 2, name: "Producto B", price: 100 },
-    { id: 3, name: "Producto C", price: 120 },
+    { id: 1, name: "Producto A", price: 500 },
+    { id: 2, name: "Producto B", price: 200 },
+    { id: 3, name: "Producto C", price: 350 },
     { id: 4, name: "Producto D", price: 300 },
-    { id: 5, name: "Producto E", price: 150 },
-    { id: 5, name: "Producto F", price: 150 },
-    { id: 5, name: "Producto G", price: 150 },
-    { id: 5, name: "Producto H", price: 150 },
-    { id: 5, name: "Producto I", price: 150 },
-    { id: 5, name: "Producto J", price: 150 },
+    { id: 5, name: "Producto E", price: 400 },
+    { id: 6, name: "Producto F", price: 470 },
+    { id: 7, name: "Producto G", price: 600 },
+    { id: 8, name: "Producto H", price: 450 },
+    { id: 9, name: "Producto I", price: 380 },
+    { id: 10, name: "Producto J", price: 250 },
   ],
   cart: [],
 };
