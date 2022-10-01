@@ -2,6 +2,13 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    screens: {
+      mobil: "375px",
+      mobil2: "645px",
+      tablet: "768px",
+      laptop: "1200px",
+      desktop: "1920px",
+    },
     colors: {
       "color-one": "#f25757",
       "color-two": "#61e8e1",

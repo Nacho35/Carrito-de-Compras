@@ -19,7 +19,7 @@ const Home = () => {
             repudiandae beatae consectetur hic ipsam nisi repellat, modi tenetur
             nemo odio!
           </p>
-          <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg">
+          <button className="btn btn-lg mobil:btn-lg tablet:btn-lg laptop:btn-lg">
             lorem
           </button>
         </div>
