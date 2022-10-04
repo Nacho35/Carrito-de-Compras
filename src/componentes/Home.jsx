@@ -20,7 +20,7 @@ const Home = () => {
             nemo odio!
           </p>
           <button className="btn btn-lg mobil:btn-lg tablet:btn-lg laptop:btn-lg">
-            lorem
+            Ver Menu
           </button>
         </div>
       </div>
