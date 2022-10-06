@@ -1,12 +1,9 @@
 import React from "react";
-
+import Home1 from "../asset/home-1.jpg";
 const Home = () => {
   return (
-    <div
-      className="hero min-h-screen"
-      style={{
-        backgroundImage: `url("https://source.unsplash.com/1920x1080/?hamburger)`,
-      }}>
+    <div className="hero min-h-full">
+      <img src={Home1} alt="burger" />
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
